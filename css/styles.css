@@ -1,0 +1,94 @@
+/* Variables */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.color_background_003559 {
+  background-color: #003559;
+}
+
+header {
+  border: black 1px solid;
+  font-family: "Cormorant Garamond", serif;
+}
+header div h1 {
+  text-shadow: 3px 3px 1px rgb(55, 0, 255);
+}
+
+nav {
+  border: black 1px solid;
+  padding: 10px;
+  background-color: #B9D6F2;
+}
+
+.articuloIndex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+  .articuloIndex {
+    display: flex;
+    flex-direction: column;
+  }
+  .articuloIndex div {
+    text-align: center;
+    padding-top: 1rem;
+  }
+}
+.articuloIndex div {
+  width: 50%;
+}
+
+.divTextoArticuloIndex {
+  background-color: #0353A4;
+  color: white;
+  padding-left: 1em;
+}
+
+.divImgDesarrolloWeb {
+  text-align: center;
+}
+
+.imgDesarrolloWeb {
+  width: 100%;
+}
+
+footer {
+  background-color: #003559;
+  padding-left: 1em;
+  color: white;
+}
+footer a {
+  color: white;
+}
+
+.imgDisenoWeb {
+  width: 50%;
+}
+
+.ArticuloImgDisenoWeb {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.imgDisenoMovil {
+  height: 280px;
+  width: 150px;
+}
+
+form div {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+
+.ajusteCarrusel {
+  padding: 10%;
+}
+
+/*# sourceMappingURL=styles.css.map */
