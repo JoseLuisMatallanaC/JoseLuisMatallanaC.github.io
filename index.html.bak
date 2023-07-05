@@ -24,7 +24,7 @@
             </div>   
             <nav >
                 <ul class="nav justify-content-center">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Principal</a></li>
+                    <li class="nav-item"><a class="nav-link" href="Index.html">Principal</a></li>
                     <li class="nav-item"><a class="nav-link" href="pages/MisionVision.html">Misión y Visión</a></li>
                     <li class="nav-item"><a class="nav-link" href="pages/Contacto.html">Contacto</a></li>
                 </ul>
@@ -92,7 +92,7 @@
                 </div>
                 <div class="col-sm-4">
                     <ul>
-                        <li><a href="index.html">Principal</a></li>
+                        <li><a href="Index.html">Principal</a></li>
                         <li><a href="pages/MisionVision.html">Misión y Visión</a></li>
                         <li><a href="pages/Contacto.html">Contacto</a></li>
                     </ul>
