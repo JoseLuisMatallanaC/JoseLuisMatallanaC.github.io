@@ -11,6 +11,18 @@
     height: 100%;
   }
 }
+.usoflex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.imagenFlex {
+  width: 30%;
+}
+
 .color_background_003559 {
   background-color: #003559;
 }
