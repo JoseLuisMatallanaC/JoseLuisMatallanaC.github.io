@@ -4,6 +4,13 @@
 }
 
 /* Variables */
+@media (max-width: 700px) {
+  .ajusteCarrusel {
+    padding: 1%;
+    width: 100%;
+    height: 100%;
+  }
+}
 .color_background_003559 {
   background-color: #003559;
 }
@@ -85,13 +92,6 @@ form div {
   max-height: 100%;
 }
 
-@media (max-width: 700px) {
-  .ajusteCarrusel {
-    padding: 1%;
-    width: 100%;
-    height: 100%;
-  }
-}
 header {
   border: black 1px solid;
   font-family: "Cormorant Garamond", serif;
